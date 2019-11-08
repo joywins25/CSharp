@@ -1,0 +1,7 @@
+1. Remote Repository 생성후 처음 작업.
+	echo "# CSharp" >> README.md
+	git init
+	git add README.md
+	git commit -m "first commit"
+	git remote add origin https://github.com/joywins25/CSharp.git
+	git push -u origin master
