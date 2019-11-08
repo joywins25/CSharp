@@ -15,4 +15,10 @@
 		git checkout -b NEW_BRANCH_NAME
 
 3. 두 Branch 간의 작업을 합치기.
+	git merge 상대방_브랜치이름
+	로컬저장소의 경우 물리적으로 같은 폴더를
+	여러개의 브랜치로 사용하기 때문에
+	git add, git commit 하지 않은 파일들은
+	브랜치를 바꿔도 Git이 관리하지 않기 때문에
+	그대로 보입니다.
 		
