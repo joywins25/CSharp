@@ -5,3 +5,13 @@
 	git commit -m "first commit"
 	git remote add origin https://github.com/joywins25/CSharp.git
 	git push -u origin master
+	
+2. Branch 작업.
+	방법1.
+		git branch "front-end"
+		git branch
+		git checkout front-end
+	방법2.
+		git checkout -b NEW_BRANCH_NAME
+
+		
