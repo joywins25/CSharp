@@ -34,3 +34,6 @@
 	git pull origin master : Remote Repository의 내용대로 로컬 저장소의 내용을 덮어 써서 같게 합니다.
 	git clone HTTPS_URL_2BE_CLONE : 다른 사람이 공개한 Remote Repository를 자신의 로컬 저장소를 생성시키면서 그대로 내려 받습니다.
 
+
+▶ 비주얼 스튜디오 2019 라이센스가 만료되었다고 합니다.
+	https://social.msdn.microsoft.com/Forums/ko-KR/415eb432-a0c1-4a96-950c-7e1ffd805a4d/487085145250620-49828539164635650724-2019?forum=vsko
